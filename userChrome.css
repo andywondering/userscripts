@@ -1,0 +1,17 @@
+/* css be square */
+*, *:before, *:after {
+border-radius:unset!important;
+box-shadow:unset!important;
+text-shadow:unset!important;
+text-transform:unset!important;
+animation-iteration-count:1!important;
+scroll-behavior:unset!important;
+moz-animation-iteration-count:1!important;
+webkit-animation-iteration-count:1!important;
+backdrop-filter:unset!important;
+filter:unset!important;
+animation-timing-function: step-start !important;
+transition-timing-function: step-start !important;
+filter:none!important;
+text-rendering:none!important;
+}
