@@ -1,9 +1,7 @@
 // ==UserScript==
 // @name        Lazyloadfier Userscript
 // @namespace   Lazyloadfier Userscript - Violentmonkey Scripts
-// @match       *://voz.vn/*
-// @match       *://genk.vn/*
-// @match       *://youtube.com/*
+// @match       *://*/*
 // @grant       none
 // @version     1.0
 // @run-at      document-start
