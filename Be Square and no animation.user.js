@@ -1,12 +1,6 @@
 // ==UserScript==
 // @name         Be Square and no animation
-// @match        *://*.youtube.com/*
-// @match        *://*.voz.vn/*
-// @match        *://*.fpt.edu.vn/*
-// @match        *://*.coursera.org/*
-// @match        *://*.reddit.com/*
-// @match        *://*.gitlab.com/*
-// @match        *://*.one.dash.cloudflare.com/*
+// @match       *://*/*
 // @grant        GM_addStyle
 // ==/UserScript==
 
